@@ -1,0 +1,28 @@
+name: Johnny Relentless
+favicon: null
+layout_spectrum: 0.4985536285676062
+typography_spectrum: 0.9606790263205767
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.16331465216353536
+  lightness: 0.5553742805495858
+  saturation: 0.4407766293734312
+  rhythmicContrast: 0.15261702216230333
+purpose: []
