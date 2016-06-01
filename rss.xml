@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Johnny Relentless]]></title>
         <description><![CDATA[Johnny Relentless]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/johnny-relentless/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 19:27:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 01 Jun 2016 20:08:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/johnny-relentless/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome!]]></title>
-            <description><![CDATA[<article><h1>Welcome!</h1><h2>Buying or selling, Johnny Relentless can help you achieve your goals quickly and within your desired budget or financial parameters. Simply put, he finds buyer’s the home of their dreams within their budget, and he sells client’s homes quickly for top dollar.</h2><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a0840ec-bda8-4e80-a8c7-c651e71cc00a.jpg"></article>]]></description>
-            <link>undefinedwelcome/index.html</link>
+            <description><![CDATA[<article><h1>Welcome!</h1><h2>Buying or selling, Johnny Relentless can help you achieve your goals quickly and within your desired budget or financial parameters. Simply put, he finds buyer’s the home of their dreams within their budget, and he sells client’s homes quickly for top dollar.</h2></article>]]></description>
+            <link>https://thegrid.ai/johnny-relentless/welcome/index.html</link>
             <guid isPermaLink="false">0b152754-6d0e-416a-9a90-5e305dfbd147</guid>
-            <pubDate>Wed, 01 Jun 2016 19:27:14 GMT</pubDate>
+            <pubDate>Wed, 01 Jun 2016 20:08:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
